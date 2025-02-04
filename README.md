@@ -16,6 +16,7 @@ Si quieres aislamiento total, puedes usar una máquina virtual con QEMU o Virtua
 
 4. Bubblewrap (Sandbox de Bajo Nivel)
 Bubblewrap es otra opción para ejecutar procesos con permisos restringidos.
+
    
 2. Crea el entorno controlado y prueba la aplicación en él.
 3. Documenta cómo has desarrollado el proyecto en github.
