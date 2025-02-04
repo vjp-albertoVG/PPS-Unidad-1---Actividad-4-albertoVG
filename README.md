@@ -4,9 +4,23 @@ La actividad consiste en probar la aplicación de la calculadora, que has realiz
 
 1. Busca cuáles son las distintas alternativas que tienes para probar esta aplicación en una Sandbox.
 
-![](imagenes/Imagen1.png)
+Algunas de los principales Sandbox que podemos usar en linux son:
 
-![](imagenes/Imagen2.png)
+1. Firejail (Aislamiento Ligero y Rápido)
+Firejail es una herramienta de sandboxing que permite ejecutar aplicaciones con permisos restringidos.
+
+2. Docker (Virtualización Ligera)
+
+3. QEMU o VirtualBox (Máquina Virtual Completa)
+Si quieres aislamiento total, puedes usar una máquina virtual con QEMU o VirtualBox para ejecutar la calculadora en un sistema Linux independiente.
+
+4. Bubblewrap (Sandbox de Bajo Nivel)
+Bubblewrap es otra opción para ejecutar procesos con permisos restringidos.
    
 2. Crea el entorno controlado y prueba la aplicación en él.
 3. Documenta cómo has desarrollado el proyecto en github.
+
+
+![](imagenes/Imagen1.png)
+
+![](imagenes/Imagen2.png)
