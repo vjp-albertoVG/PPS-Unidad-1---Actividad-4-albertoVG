@@ -4,7 +4,7 @@ La actividad consiste en probar la aplicación de la calculadora, que has realiz
 
 1. Busca cuáles son las distintas alternativas que tienes para probar esta aplicación en una Sandbox.
 
-Algunas de los principales Sandbox que podemos usar en linux son:
+Para empezar voy a utilizar Virtual Box para abrir una maquina de ubuntu, y seguramente utilice alguna de las aplicaciones que pongo a continuación.
 
 1. Firejail (Aislamiento Ligero y Rápido)
 Firejail es una herramienta de sandboxing que permite ejecutar aplicaciones con permisos restringidos.
