@@ -6,15 +6,15 @@ La actividad consiste en probar la aplicación de la calculadora, que has realiz
 
 Para empezar voy a utilizar Virtual Box para abrir una maquina de ubuntu, y seguramente utilice alguna de las aplicaciones que pongo a continuación.
 
-1. Firejail (Aislamiento Ligero y Rápido)
+1.1. Firejail (Aislamiento Ligero y Rápido)
 Firejail es una herramienta de sandboxing que permite ejecutar aplicaciones con permisos restringidos.
 
-2. Docker (Virtualización Ligera)
+1.2. Docker (Virtualización Ligera)
 
-3. QEMU o VirtualBox (Máquina Virtual Completa)
+1.3. QEMU o VirtualBox (Máquina Virtual Completa)
 Si quieres aislamiento total, puedes usar una máquina virtual con QEMU o VirtualBox para ejecutar la calculadora en un sistema Linux independiente.
 
-4. Bubblewrap (Sandbox de Bajo Nivel)
+1.4. Bubblewrap (Sandbox de Bajo Nivel)
 Bubblewrap es otra opción para ejecutar procesos con permisos restringidos.
 
 
