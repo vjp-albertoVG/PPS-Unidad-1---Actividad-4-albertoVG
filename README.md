@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7af46047-7d87-4ef0-83f2-1803fa07c93a)# PPS-Unidad-1-Actividad-4-albertoVG
+# PPS-Unidad-1-Actividad-4-albertoVG
 
 La actividad consiste en probar la aplicación de la calculadora, que has realizado en una actividad anterior, en un entorno controlado. (Si no la tienes terminada, puedes usar la que tienes adjunta en la tarea)
 
