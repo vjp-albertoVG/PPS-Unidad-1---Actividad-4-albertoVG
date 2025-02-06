@@ -24,7 +24,7 @@ Voy a utilizar firejail en ubuntu, entonces lo que tenemos que hacer es instalar
 
 ![](imagenes/Imagen1.png)
 
-Ahora pulsando en browse filesystem y tenemos que buscar nuestra calculadora
+Ahora pulsando en terminal Emulatiors y en Gnome Terminal no nos sale nada
 
 ![](imagenes/Imagen2.png)
 
