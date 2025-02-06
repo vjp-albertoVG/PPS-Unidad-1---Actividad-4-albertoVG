@@ -18,10 +18,13 @@ Si quieres aislamiento total, puedes usar una máquina virtual con QEMU o Virtua
 Bubblewrap es otra opción para ejecutar procesos con permisos restringidos.
 
    
-Crea el entorno controlado y prueba la aplicación en él.
-Documenta cómo has desarrollado el proyecto en github.
-
+2. Crea el entorno controlado y prueba la aplicación en él.
 
 ![](imagenes/Imagen1.png)
+
+3. Documenta cómo has desarrollado el proyecto en github.
+
+
+
 
 ![](imagenes/Imagen2.png)
